@@ -1456,8 +1456,8 @@ footer h3 {
 } 
 .bug {
 			position: absolute;
-			top: 17.5%;
-			left: 0%;
+			top: 21.8%;
+			left: -1%;
 
 		}
 		.bug2 {
@@ -1486,7 +1486,7 @@ footer h3 {
  		.ikona {
 			position: absolute;
 			width: 3%;
-			top: 36.3%;
+			top: 35.3%;
 			left: 48.2%;
 			user-select: none;
 		}
@@ -1552,7 +1552,7 @@ footer h3 {
 @media screen and (min-width: 1600px ) {
 		.specialx {
 	left: 45%;
-	top: 28%;
+	top: 35%;
 } 
 	 .d2{
 			position: relative;
@@ -1570,7 +1570,7 @@ footer h3 {
 		}
 		.input1 h1 {
 			
-			padding-top: 10%;
+			padding-top: 15%;
 		}
 	.bug {
 			position: absolute;
