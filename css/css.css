@@ -1457,7 +1457,7 @@ footer h3 {
 .bug {
 			position: absolute;
 			top: 21.8%;
-			left: -1%;
+			left: 0%;
 
 		}
 		.bug2 {
@@ -1525,7 +1525,7 @@ footer h3 {
 	.bug {
 			position: absolute;
 			top: 17.5%;
-			left: -.5%;
+			left: 0%;
 
 		}
 		.bug2 {
@@ -1564,7 +1564,7 @@ footer h3 {
  		.ikona {
 			position: absolute;
 			width: 3%;
-			top: 41.3%;
+			top: 44.3%;
 			left: 48.2%;
 			user-select: none;
 		}
@@ -1574,19 +1574,19 @@ footer h3 {
 		}
 	.bug {
 			position: absolute;
-			top: 21.8%;
-			left: 0%;
+			top: 20.8%;
+			left: 0.5%;
 
 		}
 		.bug2 {
 			position: absolute;
-			top: 15.2%;
+			top: 14.2%;
 			left: 70%;
 
 		}
 		.bug3 {
 			position: absolute;
-			top: 15.2%;
+			top: 14.2%;
 			left: 3.6%;
 
 		}
